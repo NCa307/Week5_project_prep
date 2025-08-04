@@ -14,5 +14,5 @@ Project Planning
 4.1. Creating the variables(e.g. interaction variables etc.)
 4.2. Performing statistical analysis to determine relationships 
 6. Based on the results of your EDA, define actionable strategies in relation to your initial questions.
-E.g. If bundles 
+E.g. If bundles reduce churn, promote them
 
