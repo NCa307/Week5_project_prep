@@ -4,6 +4,7 @@ Monday:
 2. Description of the Dataset: The Telco dataset tracks customer behaviour and attributes to understand why customers leave a telecommunications company(churn).
 The dataset is designed for general churn analysis, there are no explicit years included.
 3. Defining questions to be explored through the dataset:
+  - Which customer segments are high risk in terms of churn?
   - How do customer tenure and contract length interact to influence churn?
   - How do service bundles (e.g., phone + internet) impact churn?
   - Does TechSupport usage reduce churn for high-risk customers?
