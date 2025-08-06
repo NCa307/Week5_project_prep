@@ -8,6 +8,7 @@ The dataset is designed for general churn analysis, there are no explicit years 
   - How do customer tenure and contract length interact to influence churn?
   - How do service bundles (e.g., phone + internet) impact churn?
   - Does TechSupport usage reduce churn for high-risk customers?
+  - What is the average monthly and yearly revenue lost due to churn?
   - What would be the impact of targeted retention strategies in terms of revenue?
   - How does customer lifetime value differ between churner and non-churner customers?
 Tuesday:
