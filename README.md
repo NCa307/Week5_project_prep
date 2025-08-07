@@ -1,16 +1,15 @@
 **Project Planning**
 Monday:
 1. Dataset Chosen from Kaggle: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-2. Description of the Dataset: The Telco dataset tracks customer behaviour and attributes to understand why customers leave a telecommunications company(churn).
+2. Link to Tableau Dashboard: https://public.tableau.com/views/Telco_customer_churn/Story1?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+3. Description of the Dataset: The Telco dataset tracks customer behaviour and attributes to understand why customers leave a telecommunications company(churn).
 The dataset is designed for general churn analysis, there are no explicit years included.
-3. Defining questions to be explored through the dataset:
-  - Which customer segments are high risk in terms of churn?
-  - How do customer tenure and contract length interact to influence churn?
-  - How do service bundles (e.g., phone + internet) impact churn?
-  - Does TechSupport usage reduce churn for high-risk customers?
-  - What is the average monthly and yearly revenue lost due to churn?
-  - What would be the impact of targeted retention strategies in terms of revenue?
-  - How does customer lifetime value differ between churner and non-churner customers?
+4. Defining questions to be explored through the dataset:
+-Defining high-risk customer segments in terms of churn 
+-Which customer attributes or services are more prone to churn?
+-How does customer lifetime value differ between churner and non-churner customers?
+-How much revenue is lost due to churn in high-risk segments?
+
 Tuesday:
 4. Data Cleaning
    Checking if all data types are correctly assigned. If not modify them correctly.
